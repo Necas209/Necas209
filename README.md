@@ -15,6 +15,6 @@
 
 ## Personal Stats:
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=Educhaves430&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/Necas209)
+[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=Necas209&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/Necas209)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Necas209&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/Necas209)
