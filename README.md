@@ -7,7 +7,7 @@
 
 ## Skills:
 
-#### Languages: C/C++, C#, Python, SQL
+#### Languages: C/C++, C#, Python
 
 #### Frameworks: .NET, PyTorch
 
