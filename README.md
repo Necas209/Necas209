@@ -11,7 +11,7 @@
 
 #### Frameworks: .NET, PyTorch
 
-#### IDEs: Visual Studio, Visual Studio Code
+#### IDEs: Visual Studio, Visual Studio Code, PyCharm
 
 ## Personal Stats:
 
