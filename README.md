@@ -3,7 +3,7 @@
 3rd year student of Computer Engineering at University of Trás-os-Montes and Alto Douro.
 
 
-Here are my socials:
+You can find me here:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/Necas209)](https://github.com/Necas209)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diogo-medeiros-268897198/)](https://www.linkedin.com/in/diogo-medeiros-268897198/)
