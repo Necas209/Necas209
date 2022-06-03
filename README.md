@@ -2,6 +2,7 @@
 
 3rd year student of Computer Engineering at University of Trás-os-Montes and Alto Douro.
 
+![](https://komarev.com/ghpvc/?username=Necas209&color=orange)
 
 You can find me here:
 
