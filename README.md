@@ -11,7 +11,7 @@ You can find me here:
 
 ## Skills:
 
-#### Languages: ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=C%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=C-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=Python&logoColor=ffdd54)
+#### Languages: ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=C%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=C-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=Python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
 #### Frameworks: ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=Anaconda&logoColor=white)
 
