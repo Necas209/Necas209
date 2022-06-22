@@ -7,7 +7,6 @@
 You can find me here:
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-000?logo=Discord&link=https://discordapp.com/users/Necas209#5549)](https://discordapp.com/users/Necas209#5549)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-000?logo=GitHub&link=https://github.com/Necas209)](https://github.com/Necas209)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&link=https://www.linkedin.com/in/diogo-medeiros-268897198/)](https://www.linkedin.com/in/diogo-medeiros-268897198/)
 
 Or reach me here: diogo_medeiros@sapo.pt
