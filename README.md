@@ -37,8 +37,9 @@ You can find me here:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) 
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=PyCharm&logoColor=black&color=black&labelColor=green) 
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=flat&logo=Rider&logoColor=white&color=black&labelColor=crimson) 
-![WebStorm](https://img.shields.io/badge/WebStorm-143?style=flat&logo=Webstorm&logoColor=white&color=black)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=flat&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![CLion](https://img.shields.io/badge/CLion-black?style=flat&logo=CLion&logoColor=black&labelColor=22d88f)
+![WebStorm](https://img.shields.io/badge/WebStorm-143?style=flat&logo=WebStorm&logoColor=white&color=black&labelColor=07aff4)
 
 ## Personal Stats:
 
