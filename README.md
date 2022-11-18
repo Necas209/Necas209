@@ -9,28 +9,29 @@ You can find me here:
 [![Discord Badge](https://img.shields.io/badge/-Discord-000?logo=Discord&link=https://discordapp.com/users/Necas209#5549)](https://discordapp.com/users/Necas209#5549)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&link=https://www.linkedin.com/in/diogo-medeiros-268897198/)](https://www.linkedin.com/in/diogo-medeiros-268897198/)
 
-## Skills:
+## Skills
 
-#### Languages:
+#### Languages
 
 <div style="display: inline_block">
   <img align="center" alt="C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
   <img align="center" alt="C++" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="C#" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="MATLAB" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" />
+  <img align="center" alt="Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
   <img align="center" alt="Javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="MATLAB" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" />
 </div>
 
-#### Frameworks:
+#### Frameworks
 
 <div style="display: inline_block">
-  <img align="center" alt=".NET" height="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt=".NET" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" />
   <img align="center" alt="Kivy" height="45" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" />
-  <img align="center" alt="PyTorch" height="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
-  <img align="center" alt="Anaconda" height="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" />
+  <img align="center" alt="PyTorch" width="100" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" />
+  <img align="center" alt="TensorFlow" width="100" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" />
 </div>
-                                                                                                                                                      
+
 #### IDEs:
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white) 
@@ -39,7 +40,7 @@ You can find me here:
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=PyCharm&logoColor=black&color=black&labelColor=green) 
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=flat&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![CLion](https://img.shields.io/badge/CLion-black?style=flat&logo=CLion&logoColor=black&labelColor=22d88f)
-![WebStorm](https://img.shields.io/badge/WebStorm-143?style=flat&logo=WebStorm&logoColor=white&color=black&labelColor=07aff4)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=IntelliJ%20IDEA&logoColor=white)
 
 ## Personal Stats:
 
