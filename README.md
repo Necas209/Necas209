@@ -46,4 +46,4 @@ You can find me here:
 
 [![peguimasid github stats](https://github-readme-stats-necas209.vercel.app/api?username=Necas209&show_icons=true&count_private=true&theme=dracula&card_width=500)](https://github.com/Necas209)
 
-[![Top Langs](https://github-readme-stats-necas209.vercel.app/api/top-langs/?username=Necas209&theme=dracula)](https://github.com/Necas209)
+[![Top Langs](https://github-readme-stats-necas209.vercel.app/api/top-langs/?username=Necas209&theme=dracula&hide=jupyter%20notebook,purebasic,tex)](https://github.com/Necas209)
