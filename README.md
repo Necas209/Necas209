@@ -19,8 +19,6 @@ You can find me here:
   <img align="center" alt="C#" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-  <img align="center" alt="Javascript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="MATLAB" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" />
 </div>
 
 #### Frameworks
