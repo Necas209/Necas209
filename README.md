@@ -1,6 +1,6 @@
 ## About Me:
 
-3rd year student of Computer Engineering at University of Trás-os-Montes and Alto Douro.
+I am a second year Master's student of in Computer Engineering at the University of Trás-os-Montes and Alto Douro.
 
 ![](https://komarev.com/ghpvc/?username=Necas209&color=orange)
 
