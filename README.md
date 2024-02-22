@@ -24,21 +24,17 @@ You can find me here:
 #### Frameworks
 
 <div style="display: inline_block">
-  <img align="center" alt=".NET" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" />
-  <img align="center" alt="Kivy" height="45" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" />
-  <img align="center" alt="PyTorch" width="100" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" />
-  <img align="center" alt="TensorFlow" width="100" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" />
+  <img align="center" alt=".NET" height="45" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" />
+  <img align="center" alt="PyTorch" width="110" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" />
+  <img align="center" alt="TensorFlow" width="120" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" />
 </div>
 
 #### IDEs:
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) 
-
-![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=PyCharm&logoColor=black&color=black&labelColor=green) 
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=flat&logo=Rider&logoColor=white&color=black&labelColor=crimson)
-![CLion](https://img.shields.io/badge/CLion-black?style=flat&logo=CLion&logoColor=black&labelColor=22d88f)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=IntelliJ%20IDEA&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 
+![Rider](https://img.shields.io/badge/Rider-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 ## Personal Stats:
 
