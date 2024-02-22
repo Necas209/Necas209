@@ -25,7 +25,7 @@ You can find me here:
 
 <div style="display: inline_block">
   <img align="center" alt=".NET" height="45" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" />
-  <img align="center" alt="PyTorch" width="110" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" />
+  <img align="center" alt="PyTorch" width="110" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg" />
   <img align="center" alt="TensorFlow" width="120" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" />
 </div>
 
